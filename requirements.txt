@@ -10,5 +10,5 @@ pickleshare==0.7.5
 pandas==1.0.1
 scipy==1.4.1
 gunicorn==19.9.0
--m nltk.downloader stopwords
--m nltk.downloader wordnet
+nltk.downloader stopwords
+nltk.downloader wordnet
